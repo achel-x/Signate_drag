@@ -1,0 +1,9 @@
+
+svcRF.pickle
+.ipynb_checkpoints/0912_main-checkpoint.ipynb
+.ipynb_checkpoints/drug_py-checkpoint.ipynb
+.ipynb_checkpoints/help-checkpoint.ipynb
+dg_pca_test.csv
+dg_pca_train.csv
+*.csv
+*.pickle
