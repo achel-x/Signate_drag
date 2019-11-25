@@ -1,5 +1,5 @@
 # Signate_Drag
-signate competetion<br>
+signate competition<br>
 AI創薬： 薬物動態パラメータ予測のコードです。<br>
 https://signate.jp/competitions/168
 
